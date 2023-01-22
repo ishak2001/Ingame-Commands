@@ -1,4 +1,4 @@
-# Bunny Hop (Fast)
+# Bunny Hop
 
 * Fügen diesen Befehl in deine Console/Terminal
 

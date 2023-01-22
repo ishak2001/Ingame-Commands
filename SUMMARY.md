@@ -8,4 +8,5 @@
 
 ## CSGO
 
-* [Bunny Hop](csgo/bunny-hop.md)
+* [Bunny Hop (fast)](csgo/bunny-hop-fast.md)
+* [Bunny Hop (normal)](csgo/bunny-hop-normal.md)

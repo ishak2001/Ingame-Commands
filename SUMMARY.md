@@ -9,6 +9,10 @@
 * [Map Wechseln](csgo/map-wechsel.md)
 * [Bot Hinzufügen](csgo/bot-add.md)
 
+## Minecraft
+
+* [Coming soon](minecraft/coming-soon.md)
+
 ## Garry’s Mod
 
-## Minecraft
+* [Coming soon](garrys-mod/coming-soon.md)
